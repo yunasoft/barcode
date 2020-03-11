@@ -9,6 +9,11 @@
             "role": "Project owner and lead"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Yuna\\Barcode": "src/"
+        }
+    },
     "require": {
         "psr/container": "^1.0",
         "psr/http-message": "^1.0"
