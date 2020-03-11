@@ -2,9 +2,9 @@
 
 namespace Yuna\Barcode\Generator\Adapters;
 
-use Yuna\Barcode\Generator\Square;
+use Yuna\Barcode\Generator\Martix;
 
-class DataMatrix extends Square
+class DataMatrix extends Martix
 {
 
 }
