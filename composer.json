@@ -1,0 +1,13 @@
+{
+    "name": "yunasoft/barcode",
+    "description": "UPC-A, UPC-E, EAN-13, EAN-8, Code 39, Code 93, Code 128, Codabar, ITF, QR Code, and Data Matrix generator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Chernousov",
+            "email": "iamsaint@yandex.ru",
+            "role": "Project owner and lead"
+        }
+    ],
+    "require": {}
+}
